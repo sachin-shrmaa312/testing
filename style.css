@@ -1,3 +1,7 @@
 .one {
     background-color: aqua;
 }
+
+h1:hover {
+    background-color: blueviolet;
+}
